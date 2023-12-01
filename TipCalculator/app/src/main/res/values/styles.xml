@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#5A7A55</item>
+        <item name="colorPrimaryDark">#142E04</item>
+        <item name="colorAccent">#976830</item>
+    </style>
+</resources>
